@@ -8,5 +8,6 @@
   </div>
 
   <div class="footer">
-    <p>📬 Connect with me on <a href="https://www.linkedin.com/in/anchalbist">LinkedIn</a> | 📧 Email: anchalbisht9876@email.com</p>
+    <p>📬 Connect with me on <a href="https://www.linkedin.com/in/anchalbist">LinkedIn</a> | 📧 <a href="anchalbisht9876@gmail.com">Email</a>
+</p>
   </div>
