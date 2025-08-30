@@ -5,7 +5,7 @@
   <div class="model">
     <h2>📊 Valuation – Zomato Ltd.</h2>
     <p>Built using real-world assumptions and sensitivity analysis. Includes terminal value, WACC,Monte Carlo Simulation and scenario analysis.</p>
-    <a href=https://drive.google.com/drive/folders/1soSoTAFKz0fJ3W2mnBqOVlV9pK-LQm2F>View Model</a>
+    <a href=https://drive.google.com/drive/folders/1soSoTAFKz0fJ3W2mnBqOVlV9pK-LQm2F></a>
   </div>
 
   <div class="footer">
